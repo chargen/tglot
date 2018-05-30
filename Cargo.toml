@@ -1,0 +1,6 @@
+[package]
+name = "tglot"
+version = "0.1.0"
+authors = ["Lawrence Dark <darklawrence0@gmail.com>"]
+
+[dependencies]
