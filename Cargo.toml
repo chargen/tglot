@@ -1,6 +1,12 @@
 [package]
 name = "tglot"
-version = "0.1.0"
+version = "0.0.0-alpha"
 authors = ["Lawrence Dark <darklawrence0@gmail.com>"]
 
 [dependencies]
+gluon = "0.7.1"
+rhai = "0.9.0"
+dyon = "0.34.0"
+question = "0.2.2"
+julia = "0.2.5"
+rlua = "0.13.0"
